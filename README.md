@@ -1,10 +1,45 @@
-# Escolha seu Personagem (Nome do seu projeto)
+# Choise
+
+This project consists of an interactive web page to choose characters, inspired by (mention the inspiration, if any, like Final Fantasy VII). It features a character carousel with highlighted characters and a section with thumbnails of other available characters.
+
+## Demo
+
+[Demo Link](https://choise-urs.netlify.app/)
+
+## Features
+
+*   Character carousel with images, descriptions, and action buttons.
+*   Navigation through arrows in the carousel.
+*   Section with thumbnails of other characters.
+*   Animated background with interactive particles.
+*   Responsive design for different screen sizes.
+
+## Technologies Used
+
+*   HTML
+*   CSS
+*   JavaScript
+*   particles.js (for the particle effect)
+*   (Mention any other libraries or frameworks, if used)
+*   (Mention CSS preprocessors like Sass or Less, if used)
+
+## How to Run
+
+1.  Clone this repository: `git clone https://github.com/biancaalvess/project-future`
+2.  Navigate to the project directory: `cd project-future`
+3.  Open the `index.html` file in your browser.
+
+
+
+IN PT:
+
+#  Choise
 
 Este projeto consiste em uma página web interativa para escolher personagens, inspirada em (mencione a inspiração, se houver, como Final Fantasy VII). Ele apresenta um carrossel de personagens em destaque e uma seção com miniaturas de outros personagens disponíveis.
 
 ## Demonstração
 
-(Se você tiver um link para uma demonstração online, coloque aqui. Ex: [Link da Demonstração](https://seusite.com/))
+[Link da Demonstração](https://choise-urs.netlify.app/)
 
 ## Funcionalidades
 
@@ -25,8 +60,7 @@ Este projeto consiste em uma página web interativa para escolher personagens, i
 
 ## Como Executar
 
-1.  Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2.  Navegue até o diretório do projeto: `cd seu-repositorio`
+1.  Clone este repositório: `git clone 1.  Clone este repositório: `git clone githttps://github.com/biancaalvess/project-future`
+2.  Navegue até o diretório do projeto: `cd project-future`
 3.  Abra o arquivo `index.html` no seu navegador.
 
-## Estrutura de Arquivos
