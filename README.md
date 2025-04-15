@@ -1,6 +1,6 @@
 # Choise
 
-This project consists of an interactive web page to choose characters, inspired by (mention the inspiration, if any, like Final Fantasy VII). It features a character carousel with highlighted characters and a section with thumbnails of other available characters.
+This project consists of an interactive web page to choose characters. It features a character carousel with highlighted characters and a section with thumbnails of other available characters.
 
 ## Demo
 
